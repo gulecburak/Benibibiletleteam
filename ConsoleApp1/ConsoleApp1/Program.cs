@@ -100,7 +100,11 @@ namespace ConsoleApp1
             //lenovo11
             //lenovo10
 
-        } 
+        }
+        static void deneme2()
+        {
+            //deneme2
+        }
         static void Main(string[] args)
         {
             List<int> list = new List<int> { 7,2,3,10,2,4,8,1 };
