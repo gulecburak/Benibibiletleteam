@@ -95,6 +95,11 @@ namespace ConsoleApp1
 
 
         }
+        static void deneme()
+        {
+            //lenovo10
+
+        } 
         static void Main(string[] args)
         {
             List<int> list = new List<int> { 7,2,3,10,2,4,8,1 };
@@ -107,5 +112,6 @@ namespace ConsoleApp1
             ////Console.WriteLine(divide(4,0));
             Console.ReadKey();
         }
+
     }
 }
