@@ -97,6 +97,7 @@ namespace ConsoleApp1
         }
         static void deneme()
         {
+            //lenovo11
             //lenovo10
 
         } 
